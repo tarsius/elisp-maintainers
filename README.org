@@ -51,7 +51,7 @@ Please sort alphabetically to avoid duplicates.
     - patreon: https://www.patreon.com/user?u=3282358
     - paypal: (please provide a better url)
   - projects
-    - dash: https://github.com/magnars/dash.el
+    - smartparens: https://github.com/Fuco1/smartparens
 - Steve Purcell
   - github: https://github.com/purcell
   - twitter: https://twitter.com/sanityinc
