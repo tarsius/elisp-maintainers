@@ -53,6 +53,7 @@ Please sort alphabetically to avoid duplicates.
     - dash: https://github.com/magnars/dash.el
 - Steve Purcell
   - github: https://github.com/purcell
+  - twitter: https://twitter.com/sanityinc
   - blog: http://www.sanityinc.com
   - donate
     - patreon: https://www.patreon.com/sanityinc
