@@ -1,0 +1,67 @@
+* Elisp maintainers and how to support them
+
+This is a list of maintainers of Emacs packages, their projects, and
+how to support them.  Obviously it is very incomplete, I have only
+quickly added a few maintainers whose donation pages were easy^1 to
+find and added a longer entry for myself to demonstrate what
+information I would like to see collected here.  Please add yourself^2
+and the maintainers of your favorite packages and open a pull request.
+
+_1 That's actually quite time consuming, which is why we need this
+list.
+
+_2 Don't be shy.
+
+Eventually we could create an Emacs package and/or a webpage using the
+information collected here, but for now I am concentrating on the data
+collection.
+
+Please sort alphabetically to avoid duplicates.
+
+- Bozhidar Batsov
+  - twitter: https://twitter.com/bbatsov
+  - donate
+    - gratipay
+      - https://gratipay.com/~bbatsov/
+      - https://gratipay.com/cider
+  - projects
+    - cider: https://github.com/clojure-emacs/cider
+- Jonas Bernoulli
+  - github: https://github.com/tarsius
+  - twitter: https://twitter.com/magit_emacs
+  - blog: https://emacsair.me
+  - donate: https://magit.vc/donate
+    - bitcoin: 1KvLZpbo1AZCPsMJidUyLxS44uXGBxxHgK
+    - bountysource: https://www.bountysource.com/teams/magit
+    - ethereum: 0x90c98E49862d2Ac495BCA94342426D4e90286Ef5
+    - gratipay:
+      - https://gratipay.com/~tarsius
+      - https://gratipay.com/magit
+    - opencollective: https://opencollective.com/magit
+    - patreon: https://www.patreon.com/tarsius
+    - paypal: https://www.paypal.me/JonasBernoulli
+  - projects
+    - auto-compile, borg, epkg, no-littering: https://github.com/emacscollective
+    - emacsmirror: https://emacsmirror.net
+    - magit: https://magit.vc
+- Matus Goljer
+  - github: https://github.com/Fuco1
+  - donate
+    - patreon: https://www.patreon.com/user?u=3282358
+    - paypal: (please provide a better url)
+  - projects
+    - dash: https://github.com/magnars/dash.el
+- Steve Purcell
+  - github: https://github.com/purcell
+  - blog: http://www.sanityinc.com
+  - donate
+    - patreon: https://www.patreon.com/sanityinc
+  - projects
+    - melpa: https://melpa.org
+    - package-lint: https://github.com/purcell/package-lint
+- Thierry Volpiatto
+  - github: https://github.com/thierryvolpiatto
+  - donate
+    - patreon: https://www.patreon.com/emacshelm
+  - projects:
+    - helm: https://github.com/emacs-helm/helm
