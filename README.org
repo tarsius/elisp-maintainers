@@ -26,7 +26,7 @@ Please sort alphabetically to avoid duplicates.
       - https://gratipay.com/cider
   - projects
     - cider: https://github.com/clojure-emacs/cider
-    - projectile: https://github.com/bbatsov/projectile
+    - projectile: https://github.com/bbatsov/projectile
 - Jonas Bernoulli
   - github: https://github.com/tarsius
   - twitter: https://twitter.com/magit_emacs
