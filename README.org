@@ -60,6 +60,14 @@ Please sort alphabetically to avoid duplicates.
     - paypal: (please provide a better url)
   - projects
     - dash: https://github.com/magnars/dash.el
+- Oleh Krehel
+  - github: https://github.com/abo-abo
+  - projects
+    - Ivy, Counsel & Swiper: https://github.com/abo-abo/swiper
+    - lispy: https://github.com/abo-abo/lispy
+    - hydra: https://github.com/abo-abo/hydra
+    - ace-window: https://github.com/abo-abo/ace-window
+    - avy: https://github.com/abo-abo/avy
 - Steve Purcell
   - github: https://github.com/purcell
   - twitter: https://twitter.com/sanityinc
@@ -75,3 +83,11 @@ Please sort alphabetically to avoid duplicates.
     - patreon: https://www.patreon.com/emacshelm
   - projects:
     - helm: https://github.com/emacs-helm/helm
+- Vasilij Schneidermann
+  - github: https://github.com/wasamasa
+  - projects
+    - evil: https://github.com/emacs-evil/evil
+    - eyebrowse: https://github.com/wasamasa/eyebrowse
+    - nov.el: https://github.com/wasamasa/nov.el
+    - gotham-theme: https://github.com/wasamasa/gotham-theme
+    - shackle: https://github.com/wasamasa/shackle
