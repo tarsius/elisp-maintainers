@@ -23,6 +23,18 @@ is known.  You can also add an entry for *yourself* if you don't accept
 any donations but would like users to donate to charity instead (make
 that explicit).
 
+- Adam Niederer
+  - github: https://github.com/AdamNiederer
+  - blog: https://adamniederer.com
+  - donate: Please support the [[https://supporters.eff.org/donate][Electronic Frontier Foundation]] or [[https://sfconservancy.org/supporter/][Software Freedom Conservancy]].
+  - projects
+    - vue-mode: https://github.com/AdamNiederer/vue-mode
+    - ng2-mode: https://github.com/AdamNiederer/ng2-mode
+    - riscv-mode: https://github.com/AdamNiederer/riscv-mode
+    - elquery: https://github.com/AdamNiederer/elquery
+    - 0xc: https://github.com/AdamNiederer/0xc
+    - cov: https://github.com/AdamNiederer/cov
+    - emacs-xxhash: https://github.com/AdamNiederer/emacs-xxhash
 - Alexey Kutepov
   - github: https://github.com/rexim
   - donate:
