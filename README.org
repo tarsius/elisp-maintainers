@@ -18,6 +18,13 @@ collection.
 
 Please sort alphabetically to avoid duplicates.
 
+- Alexey Kutepov
+  - github: https://github.com/rexim
+  - donate:
+    - patreon: https://www.patreon.com/tsoding
+  - projects:
+    - org-cliplink: https://github.com/rexim/org-cliplink
+    - pacmacs: https://github.com/codingteam/pacmacs.el
 - Bozhidar Batsov
   - twitter: https://twitter.com/bbatsov
   - donate
