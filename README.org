@@ -79,3 +79,10 @@ Please sort alphabetically to avoid duplicates.
     - patreon: https://www.patreon.com/emacshelm
   - projects:
     - helm: https://github.com/emacs-helm/helm
+- John Miller
+  - github: https://github.com/millejoh
+  - blog: https://millejoh.github.io/ (to which I never write)
+  - donate
+    - gratipay: https://gratipay.com/Emacs-IPython-Notebook/
+  - projects
+    - emacs-ipython-notebook: https://github.com/millejoh/emacs-ipython-notebook
