@@ -73,6 +73,13 @@ Please sort alphabetically to avoid duplicates.
   - projects
     - melpa: https://melpa.org
     - package-lint: https://github.com/purcell/package-lint
+- Ted Zlatanov <tzz@lifelogs.com>
+  - github: https://github.com/tzz
+  - donate
+    - your favorite charity
+  - projects
+    - Emacs
+    - Gnus
 - Thierry Volpiatto
   - github: https://github.com/thierryvolpiatto
   - donate
