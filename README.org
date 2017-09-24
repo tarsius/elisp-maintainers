@@ -43,7 +43,7 @@ Please sort alphabetically to avoid duplicates.
     - bitcoin: 1KvLZpbo1AZCPsMJidUyLxS44uXGBxxHgK
     - bountysource: https://www.bountysource.com/teams/magit
     - ethereum: 0x90c98E49862d2Ac495BCA94342426D4e90286Ef5
-    - gratipay:
+    - gratipay
       - https://gratipay.com/~tarsius
       - https://gratipay.com/magit
     - opencollective: https://opencollective.com/magit
@@ -84,5 +84,5 @@ Please sort alphabetically to avoid duplicates.
   - github: https://github.com/thierryvolpiatto
   - donate
     - patreon: https://www.patreon.com/emacshelm
-  - projects:
+  - projects
     - helm: https://github.com/emacs-helm/helm
