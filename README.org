@@ -40,6 +40,13 @@ that explicit).
   - projects
     - cider: https://github.com/clojure-emacs/cider
     - projectile: https://github.com/bbatsov/projectile
+- John Miller
+  - github: https://github.com/millejoh
+  - blog: https://millejoh.github.io/ (to which I never write)
+  - donate
+    - gratipay: https://gratipay.com/Emacs-IPython-Notebook/
+  - projects
+    - emacs-ipython-notebook: https://github.com/millejoh/emacs-ipython-notebook
 - Jonas Bernoulli
   - github: https://github.com/tarsius
   - twitter: https://twitter.com/magit_emacs
