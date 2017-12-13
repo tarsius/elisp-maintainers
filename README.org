@@ -66,6 +66,7 @@ that explicit).
     - gratipay
       - https://gratipay.com/~tarsius
       - https://gratipay.com/magit
+    - liberapay: https://liberapay.com/tarsius
     - opencollective: https://opencollective.com/magit
     - patreon: https://www.patreon.com/tarsius
     - paypal: https://www.paypal.me/JonasBernoulli
