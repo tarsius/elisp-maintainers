@@ -76,6 +76,17 @@ that explicit).
     - dired-hacks: https://github.com/Fuco1/dired-hacks
     - dash: https://github.com/magnars/dash.el
     - litable: https://github.com/Fuco1/litable
+- Oleh Krehel
+  - github: https://github.com/abo-abo
+  - twitter: https://twitter.com/_abo_abo
+  - blog: http://oremacs.com
+    - [[https://oremacs.com/2017/10/18/patreon][Please consider supporting me on Patreon]]
+    - [[https://oremacs.com/2017/12/10/patreon][Comparison of transaction fees on Patreon and similar services]]
+  - donate:
+    - flattr: https://flattr.com/@abo-abo
+    - liberapay: https://liberapay.com/abo-abo
+    - patreon: https://www.patreon.com/abo_abo
+    - paypal: https://www.paypal.me/aboabo
 - Steve Purcell
   - github: https://github.com/purcell
   - twitter: https://twitter.com/sanityinc
