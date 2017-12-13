@@ -76,6 +76,12 @@ that explicit).
     - dired-hacks: https://github.com/Fuco1/dired-hacks
     - dash: https://github.com/magnars/dash.el
     - litable: https://github.com/Fuco1/litable
+- Nicolas Petton
+  - github: https://github.com/NicolasPetton
+  - twitter: https://twitter.com/NicolasPetton
+  - blog: https://nicolas.petton.fr
+  - donate:
+    - liberapay: https://liberapay.com/NicolasPetton
 - Oleh Krehel
   - github: https://github.com/abo-abo
   - twitter: https://twitter.com/_abo_abo
