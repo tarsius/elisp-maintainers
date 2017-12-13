@@ -31,6 +31,14 @@ that explicit).
     - org-cliplink: https://github.com/rexim/org-cliplink
     - pacmacs: https://github.com/codingteam/pacmacs.el
     - gruber-darker-theme: https://github.com/rexim/gruber-darker-theme
+- Bastien Guerry
+  - github: https://github.com/bzg
+  - twitter: https://twitter.com/bzg2
+  - blog: https://bzg.fr
+  - donate:
+    - liberapay: https://liberapay.com/bzg
+  - projects:
+    - org: http://orgmode.org
 - Bozhidar Batsov
   - twitter: https://twitter.com/bbatsov
   - donate
