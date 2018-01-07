@@ -26,7 +26,10 @@ that explicit).
 - Adam Niederer
   - github: https://github.com/AdamNiederer
   - blog: https://adamniederer.com
-  - donate: Please support the [[https://supporters.eff.org/donate][Electronic Frontier Foundation]] or [[https://sfconservancy.org/supporter/][Software Freedom Conservancy]].
+  - donate:
+    Please support one of
+    - [[https://supporters.eff.org/donate][Electronic Frontier Foundation]]
+    - [[https://sfconservancy.org/supporter/][Software Freedom Conservancy]]
   - projects
     - vue-mode: https://github.com/AdamNiederer/vue-mode
     - ng2-mode: https://github.com/AdamNiederer/ng2-mode
