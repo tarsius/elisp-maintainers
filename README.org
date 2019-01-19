@@ -1,3 +1,5 @@
+
+
 * Elisp maintainers and how to support them
 
 This is a list of maintainers of Emacs packages, their projects, and
@@ -23,119 +25,187 @@ is known.  You can also add an entry for *yourself* if you don't accept
 any donations but would like users to donate to charity instead (make
 that explicit).
 
-- Adam Niederer
-  - github: https://github.com/AdamNiederer
-  - blog: https://adamniederer.com
-  - donate:
-    Please support one of
-    - [[https://supporters.eff.org/donate][Electronic Frontier Foundation]]
-    - [[https://sfconservancy.org/supporter/][Software Freedom Conservancy]]
-  - projects
-    - vue-mode: https://github.com/AdamNiederer/vue-mode
-    - ng2-mode: https://github.com/AdamNiederer/ng2-mode
-    - riscv-mode: https://github.com/AdamNiederer/riscv-mode
-    - elquery: https://github.com/AdamNiederer/elquery
-    - 0xc: https://github.com/AdamNiederer/0xc
-    - cov: https://github.com/AdamNiederer/cov
-    - emacs-xxhash: https://github.com/AdamNiederer/emacs-xxhash
-- Alexey Kutepov
-  - github: https://github.com/rexim
-  - donate:
-    - patreon: https://www.patreon.com/tsoding
-  - projects:
-    - org-cliplink: https://github.com/rexim/org-cliplink
-    - pacmacs: https://github.com/codingteam/pacmacs.el
-    - gruber-darker-theme: https://github.com/rexim/gruber-darker-theme
-- Bastien Guerry
-  - github: https://github.com/bzg
-  - twitter: https://twitter.com/bzg2
-  - blog: https://bzg.fr
-  - donate:
-    - liberapay: https://liberapay.com/bzg
-  - projects:
-    - org: http://orgmode.org
-- Bozhidar Batsov
-  - twitter: https://twitter.com/bbatsov
-  - donate
-    - gratipay
-      - https://gratipay.com/~bbatsov/
-      - https://gratipay.com/cider
-  - projects
-    - cider: https://github.com/clojure-emacs/cider
-    - projectile: https://github.com/bbatsov/projectile
-- John Miller
-  - github: https://github.com/millejoh
-  - blog: https://millejoh.github.io/ (to which I never write)
-  - donate
-    - gratipay: https://gratipay.com/Emacs-IPython-Notebook/
-  - projects
-    - emacs-ipython-notebook: https://github.com/millejoh/emacs-ipython-notebook
-- Jonas Bernoulli
-  - github: https://github.com/tarsius
-  - twitter: https://twitter.com/magit_emacs
-  - blog: https://emacsair.me
-  - donate: https://magit.vc/donate
-    - bitcoin: 1KvLZpbo1AZCPsMJidUyLxS44uXGBxxHgK
-    - bountysource: https://www.bountysource.com/teams/magit
-    - ethereum: 0x90c98E49862d2Ac495BCA94342426D4e90286Ef5
-    - gratipay
-      - https://gratipay.com/~tarsius
-      - https://gratipay.com/magit
-    - liberapay: https://liberapay.com/tarsius
-    - opencollective: https://opencollective.com/magit
-    - patreon: https://www.patreon.com/tarsius
-    - paypal: https://www.paypal.me/JonasBernoulli
-  - projects
-    - auto-compile, borg, epkg, no-littering: https://github.com/emacscollective
-    - emacsmirror: https://emacsmirror.net
-    - magit: https://magit.vc
-- Matus Goljer
-  - github: https://github.com/Fuco1
-  - blog: https://fuco1.github.io/
-  - donate
-    - patreon: https://www.patreon.com/user?u=3282358
-    - paypal: https://www.paypal.me/MatusGoljer
-  - projects
-    - smartparens: https://github.com/Fuco1/smartparens
-    - dired-hacks: https://github.com/Fuco1/dired-hacks
-    - dash: https://github.com/magnars/dash.el
-    - litable: https://github.com/Fuco1/litable
-- Nicolas Petton
-  - github: https://github.com/NicolasPetton
-  - twitter: https://twitter.com/NicolasPetton
-  - blog: https://nicolas.petton.fr
-  - donate:
-    - liberapay: https://liberapay.com/NicolasPetton
-- Oleh Krehel
-  - github: https://github.com/abo-abo
-  - twitter: https://twitter.com/_abo_abo
-  - blog: http://oremacs.com
-    - [[https://oremacs.com/2017/10/18/patreon][Please consider supporting me on Patreon]]
-    - [[https://oremacs.com/2017/12/10/patreon][Comparison of transaction fees on Patreon and similar services]]
-  - donate:
-    - flattr: https://flattr.com/@abo-abo
-    - liberapay: https://liberapay.com/abo-abo
-    - patreon: https://www.patreon.com/abo_abo
-    - paypal: https://www.paypal.me/aboabo
-- Steve Purcell
-  - github: https://github.com/purcell
-  - twitter: https://twitter.com/sanityinc
-  - blog: http://www.sanityinc.com
-  - donate
-    - patreon: https://www.patreon.com/sanityinc
-  - projects
-    - melpa: https://melpa.org
-    - package-lint: https://github.com/purcell/package-lint
-- Ted Zlatanov <tzz@lifelogs.com>
-  - github: https://github.com/tzz
-  - donate
-    - your favorite charity
-  - projects
-    - Emacs
-    - Gnus
-- Thierry Volpiatto
-  - github: https://github.com/thierryvolpiatto
-  - donate
-    - patreon: https://www.patreon.com/emacshelm
-  - projects
-    - helm: https://github.com/emacs-helm/helm
+** Adam Niederer
+
+-  [[https://github.com/AdamNiederer][GitHub]]
+-  [[https://adamniederer.com][Blog]]
+
+*** Donate
+
+Please support one of:
+
+-  [[https://supporters.eff.org/donate][Electronic Frontier Foundation]]
+-  [[https://sfconservancy.org/supporter/][Software Freedom Conservancy]]
+
+*** Projects
+
+-  [[https://github.com/AdamNiederer/vue-mode][vue-mode]]
+-  [[https://github.com/AdamNiederer/ng2-mode][ng2-mode]]
+-  [[https://github.com/AdamNiederer/riscv-mode][riscv-mode]]
+-  [[https://github.com/AdamNiederer/elquery][elquery]]
+-  [[https://github.com/AdamNiederer/0xc][0xc]]
+-  [[https://github.com/AdamNiederer/cov][cov]]
+-  [[https://github.com/AdamNiederer/emacs-xxhash][emacs-xxhash]]
+
+** Alexey Kutepov
+
+-  [[https://github.com/rexim][GitHub]]
+
+*** Donate
+
+-  [[https://www.patreon.com/tsoding][Patreon]]
+
+*** Projects
+
+-  [[https://github.com/rexim/org-cliplink][org-cliplink]]
+-  [[https://github.com/codingteam/pacmacs.el][pacmacs]]
+-  [[https://github.com/rexim/gruber-darker-theme][gruber-darker-theme]]
+
+** Bastien Guerry
+
+-  [[https://github.com/bzg][GitHub]]
+-  [[https://twitter.com/bzg2][Twitter]]
+-  [[https://bzg.fr][Blog]]
+
+*** Donate
+
+-  [[https://liberapay.com/bzg][Liberapay]]
+
+*** Projects
+
+-  [[http://orgmode.org][org]]
+
+** Bozhidar Batsov
+
+-  [[https://twitter.com/bbatsov][Twitter]]
+
+*** Donate
+
+-  https://gratipay.com/~bbatsov/
+-  https://gratipay.com/cider
+
+*** Projects
+
+-  [[https://github.com/clojure-emacs/cider][cider]]
+-  [[https://github.com/bbatsov/projectile][projectile]]
+
+** John Miller
+
+-  [[https://github.com/millejoh][GitHub]]
+-  [[https://millejoh.github.io/ (to which I never write)][Blog]]
+
+*** Donate
+
+-  [[https://gratipay.com/Emacs-IPython-Notebook/][Gratipay]]
+
+*** Projects
+
+-  [[https://github.com/millejoh/emacs-ipython-notebook][emacs-ipython-notebook]]
+
+** Jonas Bernoulli
+
+-  [[https://github.com/tarsius][GitHub]]
+-  [[https://twitter.com/magit_emacs][Twitter]]
+-  [[https://emacsair.me][Blog]]
+
+*** Donate
+
+-  https://magit.vc/donate
+-  bitcoin: 1KvLZpbo1AZCPsMJidUyLxS44uXGBxxHgK
+-  [[https://www.bountysource.com/teams/magit][bountysource]]
+-  ethereum: 0x90c98E49862d2Ac495BCA94342426D4e90286Ef5
+-  gratipay
+   -  https://gratipay.com/~tarsius
+   -  https://gratipay.com/magit
+-  [[https://liberapay.com/tarsius][liberapay]]
+-  [[https://opencollective.com/magit][opencollective]]
+-  [[https://www.patreon.com/tarsius][patreon]]
+-  [[https://www.paypal.me/JonasBernoulli][paypal]]
+
+*** Projects
+
+-  [[https://github.com/emacscollective][auto-compile, borg, epkg, no-littering]]
+-  [[https://emacsmirror.net][emacsmirror]]
+-  [[https://magit.vc][magit]]
+
+** Matus Goljer
+
+-  [[https://github.com/Fuco1][GitHub]]
+-  [[https://fuco1.github.io/][Blog]]
+
+*** Donate
+
+-  [[https://www.patreon.com/user?u=3282358][Patreon]]
+-  [[https://www.paypal.me/MatusGoljer][PayPal]]
+
+*** Projects
+
+-  [[https://github.com/Fuco1/smartparens][smartparens]]
+-  [[https://github.com/Fuco1/dired-hacks][dired-hacks]]
+-  [[https://github.com/magnars/dash.el][dash]]
+-  [[https://github.com/Fuco1/litable][litable]]
+
+** Nicolas Petton
+
+-  [[https://github.com/NicolasPetton][GitHub]]
+-  [[https://twitter.com/NicolasPetton][Twitter]]
+-  [[https://nicolas.petton.fr][Blog]]
+
+*** Donate
+
+-  [[https://liberapay.com/NicolasPetton][liberapay]]
+
+** Oleh Krehel
+
+-  [[https://github.com/abo-abo][GitHub]]
+-  [[https://twitter.com/_abo_abo][Twitter]]
+-  [[http://oremacs.com][Blog]]
+   -  [[https://oremacs.com/2017/10/18/patreon][Please consider supporting me on Patreon]]
+   -  [[https://oremacs.com/2017/12/10/patreon][Comparison of transaction fees on Patreon and similar services]]
+
+*** Donate
+
+-  [[https://flattr.com/@abo-abo][flattr]]
+-  [[https://liberapay.com/abo-abo][liberapay]]
+-  [[https://www.patreon.com/abo_abo][patreon]]
+-  [[https://www.paypal.me/aboabo][paypal]]
+
+** Steve Purcell
+
+-  [[https://github.com/purcell][GitHub]]
+-  [[https://twitter.com/sanityinc][Twitter]]
+-  [[http://www.sanityinc.com][Blog]]
+
+*** Donate
+
+-  [[https://www.patreon.com/sanityinc][patreon]]
+
+*** Projects
+
+-  [[https://melpa.org][melpa]]
+-  [[https://github.com/purcell/package-lint][package-lint]]
+
+** Ted Zlatanov <tzz@lifelogs.com>
+
+-  [[https://github.com/tzz][GitHub]]
+
+*** Donate
+
+-  your favorite charity
+
+*** Projects
+
+-  Emacs
+-  Gnus
+
+** Thierry Volpiatto
+
+-  [[https://github.com/thierryvolpiatto][GitHub]]
+
+*** Donate
+
+-  [[https://www.patreon.com/emacshelm][patreon]]
+
+*** Projects
+
+-  [[https://github.com/emacs-helm/helm][helm]]
