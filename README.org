@@ -1,18 +1,13 @@
-
-
-* Elisp maintainers and how to support them
+#+TITLE: Elisp maintainers and how to support them
 
 This is a list of maintainers of Emacs packages, their projects, and
 how to support them.  Obviously it is very incomplete, I have only
-quickly added a few maintainers whose donation pages were easy^1 to
-find and added a longer entry for myself to demonstrate what
-information I would like to see collected here.  Please add yourself^2
-and the maintainers of your favorite packages and open a pull request.
-
-_1 That's actually quite time consuming, which is why we need this
-list.
-
-_2 Don't be shy.
+quickly added a few maintainers whose donation pages were
+easy[fn:1:That's actually quite time consuming, which is why we need
+this list.] to find and added a longer entry for myself to demonstrate
+what information I would like to see collected here.  Please add
+yourself[fn:2:Don't be shy.] and the maintainers of your favorite packages and open a
+pull request.
 
 Eventually we could create an Emacs package and/or a webpage using the
 information collected here, but for now I am concentrating on the data
@@ -24,6 +19,30 @@ Only add entries for maintainers for whom at least one donation option
 is known.  You can also add an entry for *yourself* if you don't accept
 any donations but would like users to donate to charity instead (make
 that explicit).
+
+
+* Contents
+:PROPERTIES:
+:TOC:      this
+:END:
+  -  [[#developers][Developers]]
+    -  [[#adam-niederer][Adam Niederer]]
+    -  [[#alexey-kutepov][Alexey Kutepov]]
+    -  [[#bastien-guerry][Bastien Guerry]]
+    -  [[#bozhidar-batsov][Bozhidar Batsov]]
+    -  [[#john-miller][John Miller]]
+    -  [[#jonas-bernoulli][Jonas Bernoulli]]
+    -  [[#matus-goljer][Matus Goljer]]
+    -  [[#nicolas-petton][Nicolas Petton]]
+    -  [[#oleh-krehel][Oleh Krehel]]
+    -  [[#steve-purcell][Steve Purcell]]
+    -  [[#mailtotzzlifelogscomted-zlatanov][Ted Zlatanov]]
+    -  [[#thierry-volpiatto][Thierry Volpiatto]]
+
+* Developers
+:PROPERTIES:
+:TOC:      1
+:END:
 
 ** Adam Niederer
 
@@ -185,7 +204,7 @@ Please support one of:
 -  [[https://melpa.org][melpa]]
 -  [[https://github.com/purcell/package-lint][package-lint]]
 
-** Ted Zlatanov <tzz@lifelogs.com>
+** [[mailto:tzz@lifelogs.com][Ted Zlatanov]]
 
 -  [[https://github.com/tzz][GitHub]]
 
@@ -209,3 +228,13 @@ Please support one of:
 *** Projects
 
 -  [[https://github.com/emacs-helm/helm][helm]]
+
+
+* COMMENT Config
+:PROPERTIES:
+:TOC:      ignore
+:END:
+
+# Local Variables:
+# before-save-hook: org-make-toc
+# End:
