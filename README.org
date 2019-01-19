@@ -3,10 +3,9 @@
 This is a list of maintainers of Emacs packages, their projects, and
 how to support them.  Obviously it is very incomplete, I have only
 quickly added a few maintainers whose donation pages were
-easy[fn:1:That's actually quite time consuming, which is why we need
-this list.] to find and added a longer entry for myself to demonstrate
+easy[fn:1] to find and added a longer entry for myself to demonstrate
 what information I would like to see collected here.  Please add
-yourself[fn:2:Don't be shy.] and the maintainers of your favorite packages and open a
+yourself[fn:2] and the maintainers of your favorite packages and open a
 pull request.
 
 Eventually we could create an Emacs package and/or a webpage using the
@@ -19,6 +18,11 @@ Only add entries for maintainers for whom at least one donation option
 is known.  You can also add an entry for *yourself* if you don't accept
 any donations but would like users to donate to charity instead (make
 that explicit).
+
+[fn:1] That's actually quite time consuming, which is why we need this
+list.
+
+[fn:2] Don't be shy.
 
 
 * Contents
