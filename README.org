@@ -117,6 +117,9 @@ that explicit).
     - liberapay: https://liberapay.com/abo-abo
     - patreon: https://www.patreon.com/abo_abo
     - paypal: https://www.paypal.me/aboabo
+  - projects
+    - swiper: https://github.com/abo-abo/swiper
+    - hydra: https://github.com/abo-abo/hydra
 - Steve Purcell
   - github: https://github.com/purcell
   - twitter: https://twitter.com/sanityinc
