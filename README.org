@@ -63,6 +63,21 @@ that explicit).
   - projects
     - cider: https://github.com/clojure-emacs/cider
     - projectile: https://github.com/bbatsov/projectile
+- Jen-Chieh Shen
+  - github: https://github.com/jcs090218
+  - twitter: https://twitter.com/jenchieh94
+  - blog: http://www.jcs-profile.com:4001/Blog/index.html
+  - donate
+    - paypal: https://www.paypal.me/jcs090218
+  - projects
+    - auto-rename-tag: https://github.com/jcs090218/auto-rename-tag
+    - com-css-sort: https://github.com/jcs090218/com-css-sort
+    - goto-preview-line: https://github.com/jcs090218/goto-preview-line
+    - htmltagwrap: https://github.com/jcs090218/htmltagwrap
+    - line-reminder: https://github.com/jcs090218/line-reminder
+    - organize-imports-java: https://github.com/jcs090218/organize-imports-java
+    - project-abbrev: https://github.com/jcs090218/project-abbrev
+    - use-ttf: https://github.com/jcs090218/use-ttf
 - John Miller
   - github: https://github.com/millejoh
   - blog: https://millejoh.github.io/ (to which I never write)
