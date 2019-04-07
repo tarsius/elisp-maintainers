@@ -72,7 +72,7 @@ that explicit).
   - projects
     - auto-rename-tag: https://github.com/elpa-host/auto-rename-tag
     - com-css-sort: https://github.com/elpa-host/com-css-sort
-    - goto-preview-line: https://github.com/elpa-host/goto-preview-line
+    - goto-preview-line: https://github.com/elpa-host/goto-line-preview
     - htmltagwrap: https://github.com/elpa-host/htmltagwrap
     - line-reminder: https://github.com/elpa-host/line-reminder
     - organize-imports-java: https://github.com/elpa-host/organize-imports-java
