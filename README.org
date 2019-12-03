@@ -63,6 +63,18 @@ that explicit).
   - projects
     - cider: https://github.com/clojure-emacs/cider
     - projectile: https://github.com/bbatsov/projectile
+- Chris Wellons
+  - github: https://github.com/skeeto
+  - blog: https://nullprogram.com/
+  - donate:
+    - GiveWell (charity): https://secure.givewell.org/
+  - projects:
+    - elfeed: https://github.com/skeeto/elfeed
+    - skewer-mode: https://github.com/skeeto/skewer-mode
+    - impatient-mode: https://github.com/skeeto/impatient-mode
+    - emacsql: https://github.com/skeeto/emacsql
+    - nasm-mode: https://github.com/skeeto/nasm-mode
+    - x86-lookup: https://github.com/skeeto/x86-lookup
 - Jen-Chieh Shen
   - github: https://github.com/jcs090218
   - twitter: https://twitter.com/jenchieh94
