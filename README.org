@@ -137,7 +137,6 @@ that explicit).
   - github: https://github.com/abo-abo
   - twitter: https://twitter.com/_abo_abo
   - blog: http://oremacs.com
-    - [[https://oremacs.com/2017/10/18/patreon][Please consider supporting me on Patreon]]
     - [[https://oremacs.com/2017/12/10/patreon][Comparison of transaction fees on Patreon and similar services]]
   - donate:
     - flattr: https://flattr.com/@abo-abo
@@ -154,8 +153,9 @@ that explicit).
   - donate
     - patreon: https://www.patreon.com/sanityinc
   - projects
-    - melpa: https://melpa.org
+    - MELPA: https://melpa.org
     - package-lint: https://github.com/purcell/package-lint
+    - 40+ others: https://melpa.org/#/?q=purcell&sort=downloads&asc=false
 - Ted Zlatanov <tzz@lifelogs.com>
   - github: https://github.com/tzz
   - donate
