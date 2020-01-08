@@ -56,10 +56,6 @@ that explicit).
     - org: http://orgmode.org
 - Bozhidar Batsov
   - twitter: https://twitter.com/bbatsov
-  - donate
-    - gratipay
-      - https://gratipay.com/~bbatsov/
-      - https://gratipay.com/cider
   - projects
     - cider: https://github.com/clojure-emacs/cider
     - projectile: https://github.com/bbatsov/projectile
@@ -93,8 +89,6 @@ that explicit).
 - John Miller
   - github: https://github.com/millejoh
   - blog: https://millejoh.github.io/ (to which I never write)
-  - donate
-    - gratipay: https://gratipay.com/Emacs-IPython-Notebook/
   - projects
     - emacs-ipython-notebook: https://github.com/millejoh/emacs-ipython-notebook
 - Jonas Bernoulli
@@ -105,9 +99,6 @@ that explicit).
     - bitcoin: 1KvLZpbo1AZCPsMJidUyLxS44uXGBxxHgK
     - bountysource: https://www.bountysource.com/teams/magit
     - ethereum: 0x90c98E49862d2Ac495BCA94342426D4e90286Ef5
-    - gratipay
-      - https://gratipay.com/~tarsius
-      - https://gratipay.com/magit
     - liberapay: https://liberapay.com/tarsius
     - opencollective: https://opencollective.com/magit
     - patreon: https://www.patreon.com/tarsius
