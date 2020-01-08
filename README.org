@@ -51,11 +51,14 @@ that explicit).
   - twitter: https://twitter.com/bzg2
   - blog: https://bzg.fr
   - donate:
+    - github: https://github.com/sponsors/bzg
     - liberapay: https://liberapay.com/bzg
   - projects:
     - org: http://orgmode.org
 - Bozhidar Batsov
   - twitter: https://twitter.com/bbatsov
+  - donate
+    - github: https://github.com/sponsors/bbatsov
   - projects
     - cider: https://github.com/clojure-emacs/cider
     - projectile: https://github.com/bbatsov/projectile
@@ -96,6 +99,7 @@ that explicit).
   - twitter: https://twitter.com/magit_emacs
   - blog: https://emacsair.me
   - donate: https://magit.vc/donate
+    - github: https://github.com/sponsors/tarsius
     - bitcoin: 1KvLZpbo1AZCPsMJidUyLxS44uXGBxxHgK
     - bountysource: https://www.bountysource.com/teams/magit
     - ethereum: 0x90c98E49862d2Ac495BCA94342426D4e90286Ef5
@@ -130,6 +134,7 @@ that explicit).
   - blog: http://oremacs.com
     - [[https://oremacs.com/2017/12/10/patreon][Comparison of transaction fees on Patreon and similar services]]
   - donate:
+    - github: https://github.com/sponsors/abo-abo
     - flattr: https://flattr.com/@abo-abo
     - liberapay: https://liberapay.com/abo-abo
     - patreon: https://www.patreon.com/abo_abo
