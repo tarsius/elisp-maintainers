@@ -112,15 +112,11 @@ that explicit).
   - github: https://github.com/tarsius
   - twitter: https://twitter.com/magit_emacs
   - blog: https://emacsair.me
-  - donate: https://magit.vc/donate
+  - donate:
     - github: https://github.com/sponsors/tarsius
-    - bitcoin: 1KvLZpbo1AZCPsMJidUyLxS44uXGBxxHgK
-    - bountysource: https://www.bountysource.com/teams/magit
-    - ethereum: 0x90c98E49862d2Ac495BCA94342426D4e90286Ef5
-    - liberapay: https://liberapay.com/tarsius
-    - opencollective: https://opencollective.com/magit
-    - patreon: https://www.patreon.com/tarsius
+    - IBAN: CH92 0077 0016 0444 2057 7
     - paypal: https://www.paypal.me/JonasBernoulli
+    - more options: https://magit.vc/donate
   - projects
     - auto-compile, borg, epkg, no-littering: https://github.com/emacscollective
     - emacsmirror: https://emacsmirror.net
