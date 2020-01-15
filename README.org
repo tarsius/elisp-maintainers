@@ -74,6 +74,20 @@ that explicit).
     - emacsql: https://github.com/skeeto/emacsql
     - nasm-mode: https://github.com/skeeto/nasm-mode
     - x86-lookup: https://github.com/skeeto/x86-lookup
+- Damien Cassou
+  - github: https://github.com/DamienCassou
+  - gitea: https://gitea.petton.fr/DamienCassou/
+  - donate:
+    - liberapay: https://liberapay.com/DamienCassou/
+    - patreon: https://www.patreon.com/DamienCassou
+    - paypal: https://www.paypal.me/DamienCassou
+  - project:
+    - auth-source-pass: https://melpa.org/#/auth-source-pass
+    - json-navigator: https://melpa.org/#/json-navigator
+    - beginend: https://melpa.org/#/beginend
+    - gpastel: https://melpa.org/#/gpastel
+    - mpdel: https://melpa.org/#/?q=mpdel
+    - many more: https://melpa.org/#/?q=cassou
 - Jen-Chieh Shen
   - github: https://github.com/jcs090218
   - twitter: https://twitter.com/jenchieh94
