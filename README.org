@@ -78,6 +78,7 @@ that explicit).
   - github: https://github.com/DamienCassou
   - gitea: https://gitea.petton.fr/DamienCassou/
   - donate:
+    - IBAN: FR71 2004 1010 0111 8746 5S02 204
     - liberapay: https://liberapay.com/DamienCassou/
     - patreon: https://www.patreon.com/DamienCassou
     - paypal: https://www.paypal.me/DamienCassou
