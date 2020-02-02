@@ -89,6 +89,16 @@ that explicit).
     - gpastel: https://melpa.org/#/gpastel
     - mpdel: https://melpa.org/#/?q=mpdel
     - many more: https://melpa.org/#/?q=cassou
+- Étienne Deparis
+  - own cgit: https://git.deparis.io
+  - github: https://github.com/milouse
+  - blog: https://etienne.depar.is/a-ecrit
+  - donate:
+    - liberapay: https://liberapay.com/milouse
+    - paypal: https://www.paypal.me/milouse
+  - project:
+    - flycheck-grammalecte: https://git.deparis.io/flycheck-grammalecte
+    - dracula-theme: https://github.com/dracula/emacs
 - Jen-Chieh Shen
   - github: https://github.com/jcs090218
   - twitter: https://twitter.com/jenchieh94
