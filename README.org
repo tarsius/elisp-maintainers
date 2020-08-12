@@ -183,3 +183,12 @@ that explicit).
     - patreon: https://www.patreon.com/emacshelm
   - projects
     - helm: https://github.com/emacs-helm/helm
+- Ivan Yonchovski
+  - github: https://github.com/yyoncho
+  - donate
+    - patreon: https://www.patreon.com/user?u=24947796
+  - projects
+    - lsp-mode: https://github.com/emacs-lsp/lsp-mode
+    - dap-mode: https://github.com/emacs-lsp/dap-mode
+    - lsp-java: https://github.com/emacs-lsp/lsp-java
+    - lsp-treemacs: https://github.com/emacs-lsp/lsp-treemacs
