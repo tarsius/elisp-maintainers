@@ -80,7 +80,7 @@ that explicit).
   - donate:
     - IBAN: FR71 2004 1010 0111 8746 5S02 204
     - liberapay: https://liberapay.com/DamienCassou/
-    - patreon: https://www.patreon.com/DamienCassou
+    - patreon: https://www.patreon.com/DamienCassou (temporarily disabled, see https://support.patreon.com/hc/en-us/articles/115004487843 for details)
     - paypal: https://www.paypal.me/DamienCassou
   - project:
     - auth-source-pass: https://melpa.org/#/auth-source-pass
@@ -180,7 +180,7 @@ that explicit).
 - Thierry Volpiatto
   - github: https://github.com/thierryvolpiatto
   - donate
-    - patreon: https://www.patreon.com/emacshelm
+    - patreon: https://www.patreon.com/emacshelm (temporarily disabled, see https://support.patreon.com/hc/en-us/articles/115004487843 for details)
   - projects
     - helm: https://github.com/emacs-helm/helm
 - Ivan Yonchovski
