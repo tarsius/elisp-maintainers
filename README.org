@@ -129,6 +129,17 @@ that explicit).
     - auto-compile, borg, epkg, no-littering: https://github.com/emacscollective
     - emacsmirror: https://emacsmirror.net
     - magit: https://magit.vc
+- Leo Vivier
+  - github: https://github.com/zaeph
+  - twitter: https://twitter.com/zaeph
+  - blog: https://zaeph.net/
+  - donate:
+    - github: https://github.com/sponsors/zaeph
+    - IBAN: FR76 3000 3009 6100 0501 1688 996
+    - paypal: https://www.paypal.me/zaeph
+  - projects
+    - org-roam: https://www.orgroam.com/
+    - org-roam-bibtex: https://github.com/org-roam/org-roam-bibtex
 - Matus Goljer
   - github: https://github.com/Fuco1
   - blog: https://fuco1.github.io/
