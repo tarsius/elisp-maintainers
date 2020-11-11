@@ -81,7 +81,7 @@ that explicit).
     - liberapay: https://liberapay.com/DamienCassou/
     - patreon: https://www.patreon.com/DamienCassou (temporarily disabled, see https://support.patreon.com/hc/en-us/articles/115004487843 for details)
     - paypal: https://www.paypal.me/DamienCassou
-  - project
+  - projects
     - auth-source-pass: https://melpa.org/#/auth-source-pass
     - json-navigator: https://melpa.org/#/json-navigator
     - beginend: https://melpa.org/#/beginend
@@ -95,7 +95,7 @@ that explicit).
   - donate
     - liberapay: https://liberapay.com/milouse
     - paypal: https://www.paypal.me/milouse
-  - project
+  - projects
     - flycheck-grammalecte: https://git.deparis.io/flycheck-grammalecte
     - dracula-theme: https://github.com/dracula/emacs
 - Henrik Lissner
