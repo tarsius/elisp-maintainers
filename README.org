@@ -99,6 +99,17 @@ that explicit).
   - project:
     - flycheck-grammalecte: https://git.deparis.io/flycheck-grammalecte
     - dracula-theme: https://github.com/dracula/emacs
+- Henrik Lissner
+  - github: https://github.com/hlissner/
+  - twitter: https://twitter.com/vnought
+  - donate
+    - liberapay: https://liberapay.com/hlissner
+    - paypal: https://www.paypal.com/paypalme/henriklissner
+  - projects
+    - doom-emacs: https://github.com/hlissner/doom-emacs
+    - evil-snipe: https://github.com/hlissner/evil-snipe
+    - evil-multiedit: https://github.com/hlissner/evil-multiedit
+    - doom-emacs-themes: https://github.com/hlissner/emacs-doom-themes
 - Jen-Chieh Shen
   - github: https://github.com/jcs090218
   - twitter: https://twitter.com/jenchieh94
