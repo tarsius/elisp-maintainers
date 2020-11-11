@@ -26,8 +26,7 @@ that explicit).
 - Adam Niederer
   - github: https://github.com/AdamNiederer
   - blog: https://adamniederer.com
-  - donate:
-    Please support one of
+  - donate (please support one of)
     - [[https://supporters.eff.org/donate][Electronic Frontier Foundation]]
     - [[https://sfconservancy.org/supporter/][Software Freedom Conservancy]]
   - projects
@@ -40,9 +39,9 @@ that explicit).
     - emacs-xxhash: https://github.com/AdamNiederer/emacs-xxhash
 - Alexey Kutepov
   - github: https://github.com/rexim
-  - donate:
+  - donate
     - patreon: https://www.patreon.com/tsoding
-  - projects:
+  - projects
     - org-cliplink: https://github.com/rexim/org-cliplink
     - pacmacs: https://github.com/codingteam/pacmacs.el
     - gruber-darker-theme: https://github.com/rexim/gruber-darker-theme
@@ -50,10 +49,10 @@ that explicit).
   - github: https://github.com/bzg
   - twitter: https://twitter.com/bzg2
   - blog: https://bzg.fr
-  - donate:
+  - donate
     - github: https://github.com/sponsors/bzg
     - liberapay: https://liberapay.com/bzg
-  - projects:
+  - projects
     - org: http://orgmode.org
 - Bozhidar Batsov
   - twitter: https://twitter.com/bbatsov
@@ -65,9 +64,9 @@ that explicit).
 - Chris Wellons
   - github: https://github.com/skeeto
   - blog: https://nullprogram.com/
-  - donate:
+  - donate
     - GiveWell (charity): https://secure.givewell.org/
-  - projects:
+  - projects
     - elfeed: https://github.com/skeeto/elfeed
     - skewer-mode: https://github.com/skeeto/skewer-mode
     - impatient-mode: https://github.com/skeeto/impatient-mode
@@ -77,12 +76,12 @@ that explicit).
 - Damien Cassou
   - github: https://github.com/DamienCassou
   - gitea: https://gitea.petton.fr/DamienCassou/
-  - donate:
+  - donate
     - IBAN: FR71 2004 1010 0111 8746 5S02 204
     - liberapay: https://liberapay.com/DamienCassou/
     - patreon: https://www.patreon.com/DamienCassou (temporarily disabled, see https://support.patreon.com/hc/en-us/articles/115004487843 for details)
     - paypal: https://www.paypal.me/DamienCassou
-  - project:
+  - project
     - auth-source-pass: https://melpa.org/#/auth-source-pass
     - json-navigator: https://melpa.org/#/json-navigator
     - beginend: https://melpa.org/#/beginend
@@ -93,10 +92,10 @@ that explicit).
   - own cgit: https://git.deparis.io
   - github: https://github.com/milouse
   - blog: https://etienne.depar.is/a-ecrit
-  - donate:
+  - donate
     - liberapay: https://liberapay.com/milouse
     - paypal: https://www.paypal.me/milouse
-  - project:
+  - project
     - flycheck-grammalecte: https://git.deparis.io/flycheck-grammalecte
     - dracula-theme: https://github.com/dracula/emacs
 - Henrik Lissner
@@ -131,7 +130,7 @@ that explicit).
   - github: https://github.com/tarsius
   - twitter: https://twitter.com/magit_emacs
   - blog: https://emacsair.me
-  - donate:
+  - donate
     - github: https://github.com/sponsors/tarsius
     - IBAN: CH92 0077 0016 0444 2057 7
     - paypal: https://www.paypal.me/JonasBernoulli
@@ -144,7 +143,7 @@ that explicit).
   - github: https://github.com/zaeph
   - twitter: https://twitter.com/zaeph
   - blog: https://zaeph.net/
-  - donate:
+  - donate
     - github: https://github.com/sponsors/zaeph
     - IBAN: FR76 3000 3009 6100 0501 1688 996
     - paypal: https://www.paypal.me/zaeph
@@ -166,14 +165,14 @@ that explicit).
   - github: https://github.com/NicolasPetton
   - twitter: https://twitter.com/NicolasPetton
   - blog: https://nicolas.petton.fr
-  - donate:
+  - donate
     - liberapay: https://liberapay.com/NicolasPetton
 - Oleh Krehel
   - github: https://github.com/abo-abo
   - twitter: https://twitter.com/_abo_abo
   - blog: http://oremacs.com
     - [[https://oremacs.com/2017/12/10/patreon][Comparison of transaction fees on Patreon and similar services]]
-  - donate:
+  - donate
     - github: https://github.com/sponsors/abo-abo
     - flattr: https://flattr.com/@abo-abo
     - liberapay: https://liberapay.com/abo-abo
