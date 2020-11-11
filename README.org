@@ -191,7 +191,8 @@ that explicit).
     - MELPA: https://melpa.org
     - package-lint: https://github.com/purcell/package-lint
     - 40+ others: https://melpa.org/#/?q=purcell&sort=downloads&asc=false
-- Ted Zlatanov <tzz@lifelogs.com>
+- Ted Zlatanov
+  - email: tzz@lifelogs.com
   - github: https://github.com/tzz
   - donate
     - your favorite charity
