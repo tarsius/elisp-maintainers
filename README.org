@@ -202,7 +202,7 @@ that explicit).
 - Thierry Volpiatto
   - github: https://github.com/thierryvolpiatto
   - donate
-    - patreon: https://www.patreon.com/emacshelm (temporarily disabled, see https://support.patreon.com/hc/en-us/articles/115004487843 for details)
+    - paypal: https://www.paypal.me/tvolpiatto
   - projects
     - helm: https://github.com/emacs-helm/helm
 - Ivan Yonchovski
