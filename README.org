@@ -208,6 +208,7 @@ that explicit).
 - Ivan Yonchovski
   - github: https://github.com/yyoncho
   - donate
+    - github: https://github.com/sponsors/yyoncho
     - patreon: https://www.patreon.com/user?u=24947796
   - projects
     - lsp-mode: https://github.com/emacs-lsp/lsp-mode
