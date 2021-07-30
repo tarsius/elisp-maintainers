@@ -109,6 +109,16 @@ that explicit).
     - evil-snipe: https://github.com/hlissner/evil-snipe
     - evil-multiedit: https://github.com/hlissner/evil-multiedit
     - doom-emacs-themes: https://github.com/hlissner/emacs-doom-themes
+- Ivan Yonchovski
+  - github: https://github.com/yyoncho
+  - donate
+    - github: https://github.com/sponsors/yyoncho
+    - patreon: https://www.patreon.com/user?u=24947796
+  - projects
+    - lsp-mode: https://github.com/emacs-lsp/lsp-mode
+    - dap-mode: https://github.com/emacs-lsp/dap-mode
+    - lsp-java: https://github.com/emacs-lsp/lsp-java
+    - lsp-treemacs: https://github.com/emacs-lsp/lsp-treemacs
 - Jen-Chieh Shen
   - github: https://github.com/jcs090218
   - twitter: https://twitter.com/jenchieh94
@@ -219,13 +229,3 @@ that explicit).
     - nov.el: https://depp.brause.cc/nov.el
     - eyebrowse: https://depp.brause.cc/eyebrowse
     - shackle: https://depp.brause.cc/shackle
-- Ivan Yonchovski
-  - github: https://github.com/yyoncho
-  - donate
-    - github: https://github.com/sponsors/yyoncho
-    - patreon: https://www.patreon.com/user?u=24947796
-  - projects
-    - lsp-mode: https://github.com/emacs-lsp/lsp-mode
-    - dap-mode: https://github.com/emacs-lsp/dap-mode
-    - lsp-java: https://github.com/emacs-lsp/lsp-java
-    - lsp-treemacs: https://github.com/emacs-lsp/lsp-treemacs
