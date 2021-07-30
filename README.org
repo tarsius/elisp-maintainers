@@ -210,6 +210,7 @@ that explicit).
   - github: https://github.com/wasamasa
   - donate
     - liberapay: https://liberapay.com/wasamasa/
+    - paypal: https://www.paypal.me/wasamasa
   - projects
     - circe: https://github.com/emacs-circe/circe
     - esxml: https://github.com/tali713/esxml
