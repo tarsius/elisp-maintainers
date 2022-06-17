@@ -54,6 +54,15 @@ that explicit).
     - liberapay: https://liberapay.com/bzg
   - projects
     - org: http://orgmode.org
+- Boris Buliga
+  - GitHub: https://github.com/d12frosted
+  - blog: https://d12frosted.io
+  - donate
+    - Patreon: https://patreon.com/d12frosted
+  - projects:
+    - homebrew-emacs-plus: https://github.com/d12frosted/homebrew-emacs-plus
+    - flyspell-correct: https://github.com/d12frosted/flyspell-correct
+    - vulpea: https://github.com/d12frosted/vulpea
 - Bozhidar Batsov
   - twitter: https://twitter.com/bbatsov
   - donate
