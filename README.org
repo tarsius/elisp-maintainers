@@ -228,6 +228,7 @@ that explicit).
   - git: https://depp.brause.cc
   - github: https://github.com/wasamasa
   - donate
+    - github: https://github.com/sponsors/wasamasa
     - liberapay: https://liberapay.com/wasamasa/
     - paypal: https://www.paypal.me/wasamasa
   - projects
