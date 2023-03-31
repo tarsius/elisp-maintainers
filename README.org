@@ -97,6 +97,22 @@ that explicit).
     - gpastel: https://melpa.org/#/gpastel
     - mpdel: https://melpa.org/#/?q=mpdel
     - many more: https://melpa.org/#/?q=cassou
+- Daniel Mendler
+  - github: https://github.com/minad
+  - donate
+    - github: https://github.com/sponsors/minad
+    - liberapay: https://liberapay.com/minad
+  - projects
+    - affe: https://github.com/minad/affe
+    - cape https://github.com/minad/corfu
+    - consult: https://github.com/minad/consult
+    - corfu: https://github.com/minad/corfu
+    - jinx: https://github.com/minad/jinx
+    - marginalia: https://github.com/minad/marginalia
+    - org-modern: https://github.com/minad/org-modern
+    - osm: https://github.com/minad/osm
+    - tempel: https://github.com/minad/tempel
+    - vertico: https://github.com/minad/vertico
 - Étienne Deparis
   - own cgit: https://git.deparis.io
   - github: https://github.com/milouse
