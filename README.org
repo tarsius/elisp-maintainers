@@ -237,7 +237,7 @@ that explicit).
 - Thierry Volpiatto
   - github: https://github.com/thierryvolpiatto
   - donate
-    - paypal: https://www.paypal.me/tvolpiatto
+    - patreon: https://www.patreon.com/user?u=86324343
   - projects
     - helm: https://github.com/emacs-helm/helm
 - Vasilij Schneidermann
